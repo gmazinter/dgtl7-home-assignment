@@ -1,0 +1,24 @@
+{
+  "name": "generic-realestate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gmazinter/dgtl7-home-assignment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gmazinter/dgtl7-home-assignment/issues"
+  },
+  "homepage": "https://github.com/gmazinter/dgtl7-home-assignment#readme",
+  "dependencies": {
+    "handlebars": "^4.7.3",
+    "jquery": "^3.4.1",
+    "waypoints": "^4.0.1"
+  }
+}
