@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/gmazinter/dgtl7-home-assignment#readme",
   "dependencies": {
-    "handlebars": "^4.7.3",
+    "handlebars": "^4.7.7",
     "jquery": "^3.4.1",
     "waypoints": "^4.0.1"
   }
